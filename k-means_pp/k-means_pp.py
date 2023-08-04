@@ -27,7 +27,7 @@ class KMeans_pp:
         return points
 
     """
-    名前 : main
+    名前 : Kmeans_pp
     引数 : データ(Data)
     説明 : k-means++
     """
